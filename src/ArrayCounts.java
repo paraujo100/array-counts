@@ -1,5 +1,5 @@
 /**
- * Name: Phillip Araujo (araujo)
+ * Name: Phillip Araujo
  * Course: CSCI 145 - Computer Science I
  * Assignment: 7
  * 
